@@ -18,5 +18,5 @@ public static void main(String[] args)
 Random rnd=new Random();
 int number=rnd.nextInt(999999);
 return string.format("%06d",number);
-}
+
 ==============
